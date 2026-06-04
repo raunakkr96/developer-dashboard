@@ -1,0 +1,6 @@
+{
+  "name": "Developer Dashboard",
+  "description": "An elegant, interactive developer hub to monitor daily coding metrics, track projects, and log repository activities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
